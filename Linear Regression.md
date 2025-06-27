@@ -45,6 +45,10 @@ $$
 $$
 {SE}(\hat{\beta}_1)^2 = \frac{\sigma^2}{\sum_{i=1}^{n} (x_i - \bar{x})^2}
 $$
+Additional methods instead non-complex procedure 
 
+Calculating RSS for linear equation and TSS from the mean (refer to [[R-squared]])
+
+If adding an extra variable makes RSS any bit larger than the variable is useless
 ## References
-Page 84 on Introduction to Statistical Learni
+Page 84 on Introduction to Statistical Learning
