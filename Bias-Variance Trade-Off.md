@@ -15,7 +15,6 @@ $$
 
 main goal is to achieve low MSE
 
-![[SCR-20250606-umzq.png]]
 
 
 ## References
